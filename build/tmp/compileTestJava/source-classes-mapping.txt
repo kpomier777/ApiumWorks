@@ -1,0 +1,34 @@
+control/Label.java
+ control.Label
+sesion/Session.java
+ sesion.Session
+devices/IDevices.java
+ devices.IDevices
+basicAppium/CalculadoraTest.java
+ basicAppium.CalculadoraTest
+devices/FactoryDevices.java
+ devices.FactoryDevices
+activities/calendario/FormCalendar.java
+ activities.calendario.FormCalendar
+devices/IOS.java
+ devices.IOS
+cleanAppium/TestBase.java
+ cleanAppium.TestBase
+control/TextBox.java
+ control.TextBox
+devices/Android.java
+ devices.Android
+control/ControlAppium.java
+ control.ControlAppium
+basicAppium/ContactManagerTest.java
+ basicAppium.ContactManagerTest
+basicAppium/WhenDoTest.java
+ basicAppium.WhenDoTest
+control/Button.java
+ control.Button
+devices/WindowsPhone.java
+ devices.WindowsPhone
+activities/calendario/MainCalendar.java
+ activities.calendario.MainCalendar
+cleanAppium/Calendar.java
+ cleanAppium.Calendar
